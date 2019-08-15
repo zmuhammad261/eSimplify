@@ -27,7 +27,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/scss/simplify.scss",
+              "src/assets/vendor/font-awesome/css/font-awesome.min.css"
             ],
             "scripts": []
           },
